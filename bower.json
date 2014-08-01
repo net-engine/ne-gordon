@@ -16,7 +16,7 @@
     "README.md",
     "node_modules",
     "app/bower_components"
-  ]
+  ],
   "dependencies": {
     "angular": "1.2.x"
   },
