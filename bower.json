@@ -1,6 +1,22 @@
 {
   "name": "gordon",
   "version": "0.0.0",
+  "authors": [
+    "Net Engine"
+  ],
+  "description": "Easy peasy flash message factory and directive for Angular JS",
+  "license": "MIT",
+  "main": "dist/gordon.js",
+  "ignore": [
+    "app",
+    "gulp",
+    ".gitignore",
+    "package.json",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "app/bower_components"
+  ]
   "dependencies": {
     "angular": "1.2.x"
   },
