@@ -10,6 +10,7 @@
   "ignore": [
     "app",
     "gulp",
+    "test",
     ".gitignore",
     "package.json",
     "gulpfile.js",
