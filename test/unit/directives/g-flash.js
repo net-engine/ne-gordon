@@ -2,7 +2,7 @@
 
 describe('Directive: gFlash', function () {
 
-  beforeEach(module('gordon'));
+  beforeEach(module('neGordon'));
 
   var element,
     scope;

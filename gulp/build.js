@@ -8,7 +8,7 @@ gulp.task('scripts', function () {
   return gulp.src('app/scripts/**/*.js')
     .pipe($.jshint())
     .pipe($.jshint.reporter('jshint-stylish'))
-    .pipe($.concat('gordon.js'))
+    .pipe($.concat('ne-gordon.js'))
     .pipe(gulp.dest('./dist'))
     .pipe($.size());
 });

@@ -2,7 +2,7 @@
 
 describe('Factory: Flash', function () {
 
-  beforeEach(module('gordon'));
+  beforeEach(module('neGordon'));
 
   var Flash,
       scope;

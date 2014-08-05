@@ -1,6 +1,6 @@
 (function () {
   'use strict';
 
-  angular.module('gordon', []);  
+  angular.module('neGordon', []);  
 })();
 

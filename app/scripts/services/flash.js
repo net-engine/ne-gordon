@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  angular.module('gordon')
+  angular.module('neGordon')
     .factory('Flash', ['$rootScope', '$timeout', function ($rootScope, $timeout) {
       var messages         = [],
           defaultDuration  = 3000,
